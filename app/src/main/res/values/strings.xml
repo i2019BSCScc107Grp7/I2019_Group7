@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BugdetApp</string>
+    <string-array name="dur_list">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+    <string-array name="cal_list">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="notes">This can help you track your overall financial progress as well as your progress toward specific goals.</string>
+    <string name="notes1">Note: You can fill up your Bill Information here to calculate it Daily, Weekly and Monthly</string>
+    <string name="notes2">Note: Show the different kinds of graphs, including pie graph, bar graph and so on.</string>
+    <string name="notes3">Note: Go back to Login page to protect your information and data.</string>
+
+    <string name="notes4">Note: Show the bill name and bill price this month.</string>
+    <string name="notes5">Note: Show the overall price monthly</string>
+    <string name="notes6">Note: Show the highest price of your bills sort by top.</string>
+</resources>
